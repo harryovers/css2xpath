@@ -1,10 +1,6 @@
-/* CSS2XPATH (Still under development)
- * Copyright (c) James Padolsey
+/* CSS2XPATH v0.4
  * ---
- * [THIS SCRIPT IS CONTINUALLY UPDATED]
- * LAST UPDATED: 21/03/09
- * CURRENT VERSION: 0.31
- * LOG: http://james.padolsey.com/scripts/javascript/css2xpath_log.txt
+ * this script is based on the work of James Padolsey
  * ---
  * Has been tested on the following selectors:
  * CSS2XPATH('div a');                        //  =>  //div//a
